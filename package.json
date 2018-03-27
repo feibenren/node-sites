@@ -1,0 +1,23 @@
+{
+  "name": "node-sites",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feibenren/node-sites.git"
+  },
+  "keywords": [
+    "node",
+    "site"
+  ],
+  "author": "feibenren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feibenren/node-sites/issues"
+  },
+  "homepage": "https://github.com/feibenren/node-sites#readme"
+}
