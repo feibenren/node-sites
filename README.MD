@@ -32,6 +32,6 @@
 ---data1.json:读取改文件的数据
 ---data2.js:异步数据
 ```
-2、site serve [site1,site2,site3]:本地开发
-3、site build:生成部署文件
-4、site deploy:部署
+# 2、site serve [site1,site2,site3]:本地开发
+# 3、site build:生成部署文件
+# 4、site deploy:部署
